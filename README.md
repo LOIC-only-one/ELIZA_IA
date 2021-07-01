@@ -10,7 +10,7 @@ Il est possible de faire jouer du son, c'est mon cas je compte la realiser en é
 
 Official Link : https://fr.wikipedia.org/wiki/ELIZA
 
-User : python3 <file>
+Use : python3 <file>
 
 A vous de jouer !
 Letux
